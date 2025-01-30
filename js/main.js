@@ -16,4 +16,15 @@ $(window).on('load', function () {
       });
     }
   });
-})
+//    Back to top Button
+$(window).scroll(function(){
+    if ($(this).scrollTop() > 100){
+        $('.back-to-top').fadIn('slow');
+    }else {
+        $('.back-to-top').fadeOut('slow');
+    }
+});
+$('html, body').animate({scrollTop : 0},1500,'easeInOutExpo');
+return false;
+
+});

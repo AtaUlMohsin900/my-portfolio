@@ -104,3 +104,17 @@ if ($('.text-slider').length == 1) {
 			backSpeed: 30
 		});
 	}
+    /*--/ Testimonials owl /--*/
+	$('#testimonial-mf').owlCarousel({
+		margin: 20,
+		autoplay: true,
+		autoplayTimeout: 4000,
+		autoplayHoverPause: true,
+		responsive: {
+			0: {
+				items: 1,
+			}
+		}
+	});
+
+})(jQuery);

@@ -31,7 +31,7 @@ export default function Contact1() {
 								</div>
 								<div className="ps-3">
 									<span className="text-400 fs-5">Email</span>
-									<h6 className="mb-0">contact@william.design</h6>
+									<h6 className="mb-0">ataulmohsin900@gmail.com</h6>
 								</div>
 								<Link href="/mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>

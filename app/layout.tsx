@@ -28,8 +28,8 @@ const dmMono = DM_Mono({
 })
 
 export const metadata: Metadata = {
-	title: "ataulmohsin - Personal Portfolio",
-	description: "ataulmohsin - Personal Portfolio",
+	title: "ataulmohsin | Portfolio",
+	description: "ataulmohsin | Portfolio",
 }
 
 export default function RootLayout({

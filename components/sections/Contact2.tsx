@@ -49,9 +49,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Phone Number</span>
-									<h6 className="mb-0">+1-234-567-8901</h6>
+									<h6 className="mb-0">+92-314-601-2991</h6>
 								</div>
-								<a href="tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="tel:+92-314-601-2991" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">

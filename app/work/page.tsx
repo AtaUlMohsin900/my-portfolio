@@ -279,9 +279,9 @@ export default function Work() {
 										</div>
 										<div className="ps-3">
 											<span className="text-400 fs-5">Phone Number</span>
-											<h6 className="mb-0">+1-234-567-8901</h6>
+											<h6 className="mb-0">+92-314-601-2991</h6>
 										</div>
-										<Link href="/tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
+										<Link href="/tel:+92-314-601-2991" className="position-absolute top-0 start-0 w-100 h-100" />
 									</div>
 									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">

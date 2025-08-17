@@ -69,7 +69,7 @@ export default function Home3() {
 								<div className="d-flex flex-column gap-2 mt-9 position-relative z-1">
 									<Link href="tel:+12345678901">
 										<i className="ri-phone-fill text-primary-3 fs-7" />
-										<span className="text-300 fs-6 ms-2">+1-234-567-8901</span>
+										<span className="text-300 fs-6 ms-2">+92-314-601-2991</span>
 									</Link>
 									<Link href="mailto:meisa.rosie@gmail.com">
 										<i className="ri-mail-fill text-primary-3 fs-7" />
@@ -485,7 +485,7 @@ export default function Home3() {
 										<div className="d-flex flex-column gap-2 position-relative z-1">
 											<Link href="tel:+12345678901">
 												<i className="ri-phone-fill text-primary-3 h6 fw-medium" />
-												<span className="text-300 fs-6 ms-2">+1-234-567-8901</span>
+												<span className="text-300 fs-6 ms-2">+92-314-601-2991</span>
 											</Link>
 											<Link href="mailto:meisa.rosie@gmail.com">
 												<i className="ri-mail-fill text-primary-3 h6 fw-medium" />

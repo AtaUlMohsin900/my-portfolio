@@ -16,7 +16,7 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 						<p className="fs-6 fw-medium text-200 mb-5">I'm always excited to take on new projects and collaborate with innovative minds.</p>
 						<div className="mb-3">
 							<span className="text-400 fs-5">Phone Number</span>
-							<p className="mb-0">+1-234-567-8901</p>
+							<p className="mb-0">+92-314-601-2991</p>
 						</div>
 						<div className="mb-3">
 							<span className="text-400 fs-5">Email</span>

@@ -356,7 +356,7 @@ export default function Work() {
 						</div>
 						<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
 							<div className="wow img-custom-anim-top">
-								<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">william.design</h3>
+								<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">ataulmohsin</h3>
 							</div>
 						</div>
 					</section>

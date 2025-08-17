@@ -9,7 +9,7 @@ export default function Footer1() {
 						<div className="text-center">
 							<Link className="d-flex main-logo align-items-center d-inline-flex" href="/">
 								<img src="/assets/imgs/footer-1/logo.svg" alt="infinia" />
-								<span className="fs-4 ms-2 text-white-keep">william.design</span>
+								<span className="fs-4 ms-2 text-white-keep">ataulmohsin</span>
 							</Link>
 							<div className="navigation d-none d-md-flex align-items-center justify-content-center flex-wrap gap-4 my-4">
 								<Link href="/" className="fs-5">
@@ -33,7 +33,7 @@ export default function Footer1() {
 							</div>
 						</div>
 						<div className="row text-center py-4">
-							<span className="fs-6 text-white-keep">© {new Date().getFullYear()} All Rights Reserved by <span><Link href="/#" className="text-primary">William.design</Link></span>
+							<span className="fs-6 text-white-keep">© {new Date().getFullYear()} All Rights Reserved by <span><Link href="/#" className="text-primary">ataulmohsin</Link></span>
 							</span></div>
 					</div>
 					<div className="position-absolute top-0 start-0 w-100 h-100 z-0" data-background="assets/imgs/footer-1/background.png " />

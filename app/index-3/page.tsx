@@ -81,7 +81,7 @@ export default function Home3() {
 									</Link>
 									<Link href="https://www.google.com/maps/place/1st+Ave.,+New+York,+NY,+Hoa+K%E1%BB%B3/@40.7630169,-73.9594939,17z/data=!4m6!3m5!1s0x89c258c29e084453:0x2bf768350d30b89e!8m2!3d40.7630169!4d-73.9594939!16zL20vMDV3Z2tm?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D">
 										<i className="ri-map-2-fill text-primary-3 fs-7" />
-										<span className="text-300 fs-6 ms-2">0811 Erdman Prairie, Joaville CA</span>
+										<span className="text-300 fs-6 ms-2">ZTBL Head Office, G-7 Islamabad PK</span>
 									</Link>
 								</div>
 							</div>
@@ -499,7 +499,7 @@ export default function Home3() {
 											</Link>
 											<Link href="#">
 												<i className="ri-map-2-fill text-primary-3 h6 fw-medium" />
-												<span className="text-300 fs-6 ms-2">0811 Erdman Prairie, Joaville CA</span>
+												<span className="text-300 fs-6 ms-2">ZTBL Head Office, G-7 Islamabad PK</span>
 											</Link>
 										</div>
 									</div>

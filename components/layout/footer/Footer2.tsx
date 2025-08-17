@@ -8,7 +8,7 @@ export default function Footer2() {
 						<div className="text-center">
 							<a className="d-flex main-logo align-items-center justify-content-center mb-3">
 								<img src="assets/imgs/home-page-2/template/favicon.svg" alt="ataulmohsin" />
-								<span className="fs-4 ms-2">James.dev</span>
+								<span className="fs-4 ms-2">ataulmohsin.dev</span>
 							</a>
 							<div className="d-flex justify-content-center gap-3">
 								<a href="http://facebook.com">

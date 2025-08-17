@@ -3,10 +3,10 @@ import Link from 'next/link'
 import OffCanvas from '../OffCanvas'
 import MobileMenu from '../MobileMenu'
 
-export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCanvas, handleOffCanvas }:any) {
-    return (
-        <>
-            <header>
+export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isOffCanvas, handleOffCanvas }: any) {
+	return (
+		<>
+			<header>
 				<div className="container position-relative">
 					<div className="position-relative">
 						<nav className="navbar navbar-expand-lg navbar-home-2 flex-nowrap z-999 p-0 border border-1 rounded-3">
@@ -16,7 +16,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 							<div className="container py-3 px-4">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/index-2">
 									<img src="assets/imgs/home-page-2/template/favicon.svg" alt="ataulmohsin" />
-									<span className="fs-4 ms-2">James.dev</span>
+									<span className="fs-4 ms-2">ataulmohsin.dev</span>
 								</Link>
 								<div className="d-none d-lg-flex">
 									<div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -72,6 +72,6 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 					<MobileMenu isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} />
 				</div>
 			</header>
-        </>
-    )
+		</>
+	)
 }

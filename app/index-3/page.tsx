@@ -63,8 +63,8 @@ export default function Home3() {
 						<div className="row">
 							<div className="col-lg-4 offset-lg-1">
 								<div className="position-relative d-inline-block">
-									<img className="rounded-5" src="assets/imgs/home-page-3/hero/img-1.png" alt="zelio" />
-									<img className="position-absolute top-100 start-50 translate-middle pt-8 z-0" src="assets/imgs/home-page-3/hero/signature.png" alt="zelio" />
+									<img className="rounded-5" src="assets/imgs/home-page-3/hero/img-1.png" alt="ataulmohsin" />
+									<img className="position-absolute top-100 start-50 translate-middle pt-8 z-0" src="assets/imgs/home-page-3/hero/signature.png" alt="ataulmohsin" />
 								</div>
 								<div className="d-flex flex-column gap-2 mt-9 position-relative z-1">
 									<Link href="tel:+12345678901">
@@ -108,7 +108,7 @@ export default function Home3() {
 													<div className="card-custom pt-0" data-index={0}>
 														<div className="card__inner rounded-4 border border-secondary-3 bg-white p-lg-5 p-md-4 p-3">
 															<div className="card__image-container rounded-0 zoom-img position-relative">
-																<img className="card__image" src="assets/imgs/home-page-3/typical/img-1.png" alt="zelio" />
+																<img className="card__image" src="assets/imgs/home-page-3/typical/img-1.png" alt="ataulmohsin" />
 																<Link href="@@link" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
 															</div>
 															<div className="card__content px-md-4 px-3 pt-lg-0 pb-lg-8 pb-5">
@@ -125,7 +125,7 @@ export default function Home3() {
 													<div className="card-custom pt-0" data-index={1}>
 														<div className="card__inner rounded-4 border border-secondary-3 bg-white p-lg-5 p-md-4 p-3">
 															<div className="card__image-container rounded-0 zoom-img position-relative">
-																<img className="card__image" src="assets/imgs/home-page-3/typical/img-2.png" alt="zelio" />
+																<img className="card__image" src="assets/imgs/home-page-3/typical/img-2.png" alt="ataulmohsin" />
 																<Link href="@@link" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
 															</div>
 															<div className="card__content px-md-4 px-3 pt-lg-0 pb-lg-8 pb-5">
@@ -142,7 +142,7 @@ export default function Home3() {
 													<div className="card-custom pt-0" data-index={2}>
 														<div className="card__inner rounded-4 border border-secondary-3 bg-white p-lg-5 p-md-4 p-3">
 															<div className="card__image-container rounded-0 zoom-img position-relative">
-																<img className="card__image" src="assets/imgs/home-page-3/typical/img-3.png" alt="zelio" />
+																<img className="card__image" src="assets/imgs/home-page-3/typical/img-3.png" alt="ataulmohsin" />
 																<Link href="@@link" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
 															</div>
 															<div className="card__content px-md-4 px-3 pt-lg-0 pb-lg-8 pb-5">
@@ -360,7 +360,7 @@ export default function Home3() {
 																<p className="mb-0">Storytelling is at the heart of human experience. In this post, I delve into the key elements that make a story compelling and share techniques to enhance your narrative skills.</p>
 															</div>
 															<div className="image-right">
-																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-1.png" alt="zelio" />
+																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-1.png" alt="ataulmohsin" />
 															</div>
 														</div>
 													</div>
@@ -372,7 +372,7 @@ export default function Home3() {
 																<p className="mb-0">Eery writer faces writer's block at some point. Here, I explore effective methods to overcome this common challenge and reignite your creative spark</p>
 															</div>
 															<div className="image-right">
-																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-2.png" alt="zelio" />
+																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-2.png" alt="ataulmohsin" />
 															</div>
 														</div>
 													</div>
@@ -386,7 +386,7 @@ export default function Home3() {
 																<p className="mb-0">Storytelling is at the heart of human experience. In this post, I delve into the key elements that make a story compelling and share techniques to enhance your narrative skills.</p>
 															</div>
 															<div className="image-right">
-																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-1.png" alt="zelio" />
+																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-1.png" alt="ataulmohsin" />
 															</div>
 														</div>
 													</div>
@@ -398,7 +398,7 @@ export default function Home3() {
 																<p className="mb-0">Every writer faces writer's block at some point. Here, I explore effective methods to overcome this common challenge and reignite your creative spark</p>
 															</div>
 															<div className="image-right">
-																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-2.png" alt="zelio" />
+																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-2.png" alt="ataulmohsin" />
 															</div>
 														</div>
 													</div>
@@ -412,7 +412,7 @@ export default function Home3() {
 																<p className="mb-0">Storytelling is at the heart of human experience. In this post, I delve into the key elements that make a story compelling and share techniques to enhance your narrative skills.</p>
 															</div>
 															<div className="image-right">
-																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-1.png" alt="zelio" />
+																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-1.png" alt="ataulmohsin" />
 															</div>
 														</div>
 													</div>
@@ -424,7 +424,7 @@ export default function Home3() {
 																<p className="mb-0">Every writer faces writer's block at some point. Here, I explore effective methods to overcome this common challenge and reignite your creative spark</p>
 															</div>
 															<div className="image-right">
-																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-2.png" alt="zelio" />
+																<img className="rounded-3 w-100 h-100" src="assets/imgs/home-page-3/blog/img-2.png" alt="ataulmohsin" />
 															</div>
 														</div>
 													</div>

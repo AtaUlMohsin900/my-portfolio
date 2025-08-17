@@ -9,7 +9,7 @@ export default function Footer3() {
 						<div className="d-lg-flex justify-content-between align-items-center">
 							<Link className="d-flex main-logo align-items-center justify-content-center ms-lg-0 ms-md-5 ms-3" href="/index-3">
 								<h1 className="fs-28 mb-0 me-2">Meisa</h1>
-								<img src="assets/imgs/home-page-3/template/favicon.svg" alt="zelio" />
+								<img src="assets/imgs/home-page-3/template/favicon.svg" alt="ataulmohsin" />
 							</Link>
 							<div className="navigation d-flex align-items-center justify-content-center flex-wrap gap-4 my-4">
 								<a href="#about" className="fs-6"> About me </a>

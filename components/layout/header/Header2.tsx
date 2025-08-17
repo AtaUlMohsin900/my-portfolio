@@ -15,7 +15,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 							</a>
 							<div className="container py-3 px-4">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/index-2">
-									<img src="assets/imgs/home-page-2/template/favicon.svg" alt="zelio" />
+									<img src="assets/imgs/home-page-2/template/favicon.svg" alt="ataulmohsin" />
 									<span className="fs-4 ms-2">James.dev</span>
 								</Link>
 								<div className="d-none d-lg-flex">

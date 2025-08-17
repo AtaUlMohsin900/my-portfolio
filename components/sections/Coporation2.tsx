@@ -122,7 +122,7 @@ export default function Coporation2() {
 												<div className="circle-1 position-relative z-0">
 													<div className="circle-2 position-absolute top-50 start-50 translate-middle z-1">
 														<div className="position-absolute top-50 start-50 translate-middle z-2">
-															<img className="w-100 h-100 rounded-circle" src="assets/imgs/coporation/avatar.png" alt="zelio" />
+															<img className="w-100 h-100 rounded-circle" src="assets/imgs/coporation/avatar.png" alt="ataulmohsin" />
 															<svg className="text-primary-2 position-absolute bottom-0 end-0" xmlns="http://www.w3.org/2000/svg" width={9} height={9} viewBox="0 0 5 6" fill="none">
 																<circle cx="2.5" cy={3} r="2.5" fill="#A8FF53" />
 															</svg>

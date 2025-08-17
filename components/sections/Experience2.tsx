@@ -30,7 +30,7 @@ export default function Experience2() {
 										<div className="d-flex flex-column gap-2">
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/google.svg" alt="zelio" />
+													<img src="assets/imgs/home-page-2/experience/google.svg" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">Google</h5>
 														<span className="text-300">2018 - Present</span>
@@ -39,7 +39,7 @@ export default function Experience2() {
 											</Link>
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/twitter.svg" alt="zelio" />
+													<img src="assets/imgs/home-page-2/experience/twitter.svg" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">Twitter (X)</h5>
 														<span className="text-300">2012 - 2015</span>
@@ -48,7 +48,7 @@ export default function Experience2() {
 											</Link>
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/amazon.svg" alt="zelio" />
+													<img src="assets/imgs/home-page-2/experience/amazon.svg" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">Amazon</h5>
 														<span className="text-300">2018 - Present</span>
@@ -57,7 +57,7 @@ export default function Experience2() {
 											</Link>
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/payPal.svg" alt="zelio" />
+													<img src="assets/imgs/home-page-2/experience/payPal.svg" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">PayPal</h5>
 														<span className="text-300">2010 - 2012</span>
@@ -83,7 +83,7 @@ export default function Experience2() {
 									</div>
 								</div>
 							</div>
-							<img className="position-absolute top-0 start-0 z-0" src="assets/imgs/home-page-2/services/bg.png" alt="zelio" />
+							<img className="position-absolute top-0 start-0 z-0" src="assets/imgs/home-page-2/services/bg.png" alt="ataulmohsin" />
 						</div>
 					</div>
 				</div>

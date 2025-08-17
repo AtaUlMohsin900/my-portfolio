@@ -23,7 +23,7 @@ export default function Blog2() {
 							<div className="blog-card rounded-top-2 mb-lg-3 mb-md-5 mb-3">
 								<div className="blog-card__image position-relative">
 									<div className="zoom-img rounded-2 overflow-hidden">
-										<img className="w-100" src="assets/imgs/home-page-2/blog/img-1.png" alt="zelio" />
+										<img className="w-100" src="assets/imgs/home-page-2/blog/img-1.png" alt="ataulmohsin" />
 										<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep border border-white fw-medium px-3 py-1 fs-7 bg-white rounded-2" href="#">CEO</Link>
 										<Link href="#" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape rounded-circle">
 											<i className="ri-arrow-right-up-line" />
@@ -42,7 +42,7 @@ export default function Blog2() {
 							<div className="blog-card rounded-top-2 mb-lg-3 mb-md-5 mb-3">
 								<div className="blog-card__image position-relative">
 									<div className="zoom-img rounded-2 overflow-hidden">
-										<img className="w-100" src="assets/imgs/home-page-2/blog/img-2.png" alt="zelio" />
+										<img className="w-100" src="assets/imgs/home-page-2/blog/img-2.png" alt="ataulmohsin" />
 										<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep border border-white fw-medium px-3 py-1 fs-7 bg-white rounded-2" href="#">Development</Link>
 										<Link href="#" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape rounded-circle">
 											<i className="ri-arrow-right-up-line" />
@@ -61,7 +61,7 @@ export default function Blog2() {
 							<div className="blog-card rounded-top-2 mb-lg-3 mb-md-5 mb-3">
 								<div className="blog-card__image position-relative">
 									<div className="zoom-img rounded-2 overflow-hidden">
-										<img className="w-100" src="assets/imgs/home-page-2/blog/img-3.png" alt="zelio" />
+										<img className="w-100" src="assets/imgs/home-page-2/blog/img-3.png" alt="ataulmohsin" />
 										<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep border border-white fw-medium px-3 py-1 fs-7 bg-white rounded-2" href="#">Trending</Link>
 										<Link href="#" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape rounded-circle">
 											<i className="ri-arrow-right-up-line" />

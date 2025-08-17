@@ -7,7 +7,7 @@ export default function Footer2() {
 					<div className="container position-relative z-1 border-top border-1 pb-2 pt-4">
 						<div className="text-center">
 							<a className="d-flex main-logo align-items-center justify-content-center mb-3">
-								<img src="assets/imgs/home-page-2/template/favicon.svg" alt="zelio" />
+								<img src="assets/imgs/home-page-2/template/favicon.svg" alt="ataulmohsin" />
 								<span className="fs-4 ms-2">James.dev</span>
 							</a>
 							<div className="d-flex justify-content-center gap-3">

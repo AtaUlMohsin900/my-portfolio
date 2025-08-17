@@ -13,9 +13,9 @@ export default function Home2() {
 							<div className="row align-items-end py-60">
 								<div className="col-lg-5 ps-lg-5 text-lg-start text-center">
 									<div className="position-relative mb-lg-0 mb-5">
-										<img src="assets/imgs/home-page-2/hero-1/people.png" alt="zelio" />
+										<img src="assets/imgs/home-page-2/hero-1/people.png" alt="ataulmohsin" />
 										<div className="position-absolute end-0 top-100 translate-middle-y icon-decorate">
-											<img src="assets/imgs/home-page-2/hero-1/icon.svg" alt="zelio" />
+											<img src="assets/imgs/home-page-2/hero-1/icon.svg" alt="ataulmohsin" />
 										</div>
 									</div>
 								</div>
@@ -80,8 +80,8 @@ export default function Home2() {
 					</div>
 				</div>
 				<div className="background position-absolute top-0 start-0 w-100 h-100">
-					<img className="bg-w" src="assets/imgs/home-page-2/hero-1/bg.png" alt="zelio" />
-					<img className="bg-d" src="assets/imgs/home-page-2/hero-1/bg-dark.png" alt="zelio" />
+					<img className="bg-w" src="assets/imgs/home-page-2/hero-1/bg.png" alt="ataulmohsin" />
+					<img className="bg-d" src="assets/imgs/home-page-2/hero-1/bg-dark.png" alt="ataulmohsin" />
 				</div>
 			</section>
 

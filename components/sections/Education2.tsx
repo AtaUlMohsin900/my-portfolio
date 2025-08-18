@@ -75,7 +75,7 @@ export default function Education2() {
 											<div className="d-flex gap-2">
 												<p className="text-300 text-nowrap fw-regular mb-0">2023-2024:</p>
 												<div>
-													<span className="text-primary-2">Advanced Data Analytics with Big Data Cass</span>
+													<span className="text-primary-2">Advanced Data Analytics with Big Data Cassendra</span>
 													<p className="text-dark">Utilized big data tools for advanced analytics and insights.</p>
 												</div>
 											</div>

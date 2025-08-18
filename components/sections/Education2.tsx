@@ -31,7 +31,7 @@ export default function Education2() {
 												<div className="d-flex gap-2">
 													<p className="text-300 text-nowrap fw-regular mb-0">2018-2019:</p>
 													<div>
-														<span className="text-primary-2">Harvard University</span>
+														<span className="text-primary-2">IBM</span>
 														<p className="text-dark">Certification in React and Redux, Node.js Developer Course</p>
 													</div>
 												</div>
@@ -40,7 +40,7 @@ export default function Education2() {
 												<div className="d-flex gap-2">
 													<p className="text-300 text-nowrap fw-regular mb-0">2015-2016:</p>
 													<div>
-														<span className="text-primary-2">Stanford University</span>
+														<span className="text-primary-2">IBM</span>
 														<p className="text-dark">Certification in Full Stack Web Development</p>
 													</div>
 												</div>
@@ -49,7 +49,7 @@ export default function Education2() {
 												<div className="d-flex gap-2">
 													<p className="text-300 text-nowrap fw-regular mb-0">2013-2015:</p>
 													<div>
-														<span className="text-primary-2">University of Washington</span>
+														<span className="text-primary-2">IBM</span>
 														<p className="text-dark">Certification in React and Redux, Node.js Developer Course</p>
 													</div>
 												</div>
@@ -75,7 +75,7 @@ export default function Education2() {
 											<div className="d-flex gap-2">
 												<p className="text-300 text-nowrap fw-regular mb-0">2023-2024:</p>
 												<div>
-													<span className="text-primary-2">Advanced Data Analytics with Big Data Tools</span>
+													<span className="text-primary-2">Advanced Data Analytics with Big Data Cass</span>
 													<p className="text-dark">Utilized big data tools for advanced analytics and insights.</p>
 												</div>
 											</div>

@@ -22,8 +22,8 @@ export default function Education2() {
 												<div className="d-flex gap-2">
 													<p className="text-300 text-nowrap fw-regular mb-0">2020-2024:</p>
 													<div>
-														<span className="text-primary-2">MIT</span>
-														<p className="text-dark">Bachelor’s Degree in Computer Science</p>
+														<span className="text-primary-2">SHAH ABDUL LATIF UNIVERSITY</span>
+														<p className="text-dark">Bachelor’s Degree in Arts</p>
 													</div>
 												</div>
 											</li>

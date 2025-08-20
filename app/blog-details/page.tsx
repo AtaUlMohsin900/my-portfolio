@@ -178,7 +178,7 @@ export default function BlogDetails() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">12</span></span>
+												<span className="ds-3 count text-primary fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">4</span></span>
 												<div className="text-start ms-2">
 													<p className="fs-5 mb-0 text-300">Year of</p>
 													<p className="fs-5 mb-0 fw-bold">Experience</p>
@@ -189,7 +189,7 @@ export default function BlogDetails() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">250</span></span>
+												<span className="ds-3 count text-primary fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">35</span></span>
 												<div className="text-start ms-2">
 													<p className="fs-5 mb-0 text-300">Projects</p>
 													<p className="fs-5 mb-0 fw-bold">Completed</p>
@@ -200,7 +200,7 @@ export default function BlogDetails() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">680</span></span>
+												<span className="ds-3 count text-primary fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">28</span></span>
 												<div className="text-start ms-2">
 													<p className="fs-5 mb-0 text-300">Satisfied</p>
 													<p className="fs-5 mb-0 fw-bold">Happy Clients</p>
@@ -211,7 +211,7 @@ export default function BlogDetails() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">18</span></span>
+												<span className="ds-3 count text-primary fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">7</span></span>
 												<div className="text-start ms-2">
 													<p className="fs-5 mb-0 text-300">Awards</p>
 													<p className="fs-5 mb-0 fw-bold">Won Received</p>

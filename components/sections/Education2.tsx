@@ -22,8 +22,8 @@ export default function Education2() {
 												<div className="d-flex gap-2">
 													<p className="text-300 text-nowrap fw-regular mb-0">2020-2024:</p>
 													<div>
-														<span className="text-primary-2">SHAH ABDUL LATIF UNIVERSITY</span>
-														<p className="text-dark">Bachelor’s Degree in Arts</p>
+														<span className="text-primary-2">IBM</span>
+														<p className="text-dark">Certification in React and Redux, Node.js Developer Course</p>
 													</div>
 												</div>
 											</li>
@@ -47,10 +47,10 @@ export default function Education2() {
 											</li>
 											<li className="position-relative z-1 mb-3">
 												<div className="d-flex gap-2">
-													<p className="text-300 text-nowrap fw-regular mb-0">2013-2015:</p>
+													<p className="text-300 text-nowrap fw-regular mb-0">2012-2014:</p>
 													<div>
-														<span className="text-primary-2">IBM</span>
-														<p className="text-dark">Certification in React and Redux, Node.js Developer Course</p>
+														<span className="text-primary-2">SHAH ABDUL LATIF UNIVERSITY</span>
+														<p className="text-dark">Bachelor’s Degree in Arts</p>
 													</div>
 												</div>
 											</li>

@@ -30,10 +30,10 @@ export default function Experience2() {
 										<div className="d-flex flex-column gap-2">
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/google.svg" alt="ataulmohsin" />
+													<img src="assets/imgs/home-page-2/experience/ztbl.png" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">Google</h5>
-														<span className="text-300">2018 - Present</span>
+														<h5 className="mb-1">ZTBL</h5>
+														<span className="text-300">2022 - Present</span>
 													</div>
 												</div>
 											</Link>

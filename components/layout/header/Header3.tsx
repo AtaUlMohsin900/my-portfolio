@@ -53,8 +53,7 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu, isOffC
 								</Link>
 							</div>
 							<div className="burger-icon burger-icon-white border rounded-3" onClick={handleOffCanvas}>
-								<span className="burger-icon-top" />
-								<span className="burger-icon-mid" />
+								<span className="burger-icon-top" />z
 								<span className="burger-icon-bottom" />
 							</div>
 						</div>

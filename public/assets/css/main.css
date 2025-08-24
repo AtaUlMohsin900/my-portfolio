@@ -49,12 +49,12 @@ Table of contents
   --tc-ds-3: 64px;
   --tc-body-line-height: 1.5;
   --tc-heading-line-height: 1.2;
-  --tc-theme-primary-1: #6e4ef2;
+  --tc-theme-primary-1: #a8ff53;
   --tc-theme-primary-2: #62a92b;
   --tc-theme-primary-3: #be6895;
   --tc-theme-secondary-1: #21212d;
   --tc-theme-secondary-3: #b2a4ab;
-  --tc-theme-dark-primary-1: #6e4ef2;
+  --tc-theme-dark-primary-1: #a8ff53;
   --tc-theme-dark-primary-2: #a8ff53;
   --tc-theme-dark-primary-3: #fcc6e2;
   --tc-theme-dark-secondary-1: #21212d;
@@ -93,7 +93,7 @@ Table of contents
   --tc-system-dark-danger: #fca5a7;
   --tc-system-dark-muted: #9ca3af;
   --tc-bg-1: #edeaf8;
-  --tc-bg-2: #6e4ef2;
+  --tc-bg-2: #a8ff53;
   --tc-bg-3: #ffffff;
   --tc-bg-4: #fbf8f9;
   --tc-bg-5: #e8e8e8;
@@ -107,12 +107,12 @@ Table of contents
   --tc-border-1: #c0dcbc;
   --tc-border-dark-1: #3b413d;
   --tc-linear-1: linear-gradient(90deg, #6d4df2 0%, #8c71ff 100%);
-  --tc-linear-2: linear-gradient(-180deg, #6e4ef2 0%, transparent 100%);
+  --tc-linear-2: linear-gradient(-180deg, #a8ff53 0%, transparent 100%);
   --tc-linear-3: linear-gradient(-180deg, #dfdfea 0%, rgba(223, 223, 234, 0.31) 31%, rgba(223, 223, 234, 0) 100%);
   --tc-linear-4: linear-gradient(-90deg, #33a381 0%, #129840 100%);
   --tc-linear-5: linear-gradient(-90deg, rgba(31, 31, 36, 0.45) 0%, rgb(31, 31, 36) 100%);
   --tc-linear-dark-1: linear-gradient(90deg, #6d4df2 0%, #8c71ff 100%);
-  --tc-linear-dark-2: linear-gradient(-180deg, #6e4ef2 0%, transparent 100%);
+  --tc-linear-dark-2: linear-gradient(-180deg, #a8ff53 0%, transparent 100%);
   --tc-linear-dark-3: linear-gradient(-180deg, #5e5e63 0%, transparent 100%);
   --tc-linear-dark-4: linear-gradient(-90deg, #659932 0%, #a8ff53 100%);
   --tc-linear-dark-5: linear-gradient(-90deg, rgba(255, 255, 255, 0.32) 0%, rgb(255, 255, 255) 100%);
@@ -2007,7 +2007,7 @@ textarea {
 }
 
 :root {
-  --bs-primary-rgb: #6E4EF2;
+  --bs-primary-rgb: #a8ff53;
   --bs-dark-rgb: #1F1F24;
 }
 
@@ -2380,7 +2380,7 @@ textarea {
 }
 
 .border-linear-2 {
-  background: linear-gradient(var(--tc-neutral-1000), var(--tc-neutral-1000)) padding-box, linear-gradient(to bottom, #6e4ef2, transparent) border-box;
+  background: linear-gradient(var(--tc-neutral-1000), var(--tc-neutral-1000)) padding-box, linear-gradient(to bottom, #a8ff53, transparent) border-box;
   border: 1px solid transparent;
 }
 
@@ -4258,7 +4258,7 @@ textarea.form-control {
 
 .section-resume-1 .resume-card .resume-card-body .resume-card-item {
   border: 1px solid transparent;
-  background: linear-gradient(var(--tc-bg-1), var(--tc-bg-1)) padding-box, linear-gradient(to bottom, #6e4ef2, transparent) border-box;
+  background: linear-gradient(var(--tc-bg-1), var(--tc-bg-1)) padding-box, linear-gradient(to bottom, #a8ff53, transparent) border-box;
   border-radius: 16px;
   transition: all 0.3s ease-in-out;
 }

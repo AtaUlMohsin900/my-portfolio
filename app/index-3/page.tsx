@@ -36,20 +36,20 @@ const swiperOptions = {
 const swiperOptions2 = {
 	modules: [Autoplay, Pagination, Navigation],
 	slidesPerView: 1,
-            // spaceBetween: 20,
-            slidesPerGroup: 1,
-            centeredSlides: false,
-            loop: true,
-            autoplay: {
-                delay: 4000,
-            },
-            pagination: {
-                el: '.swiper-pagination',
-            },
-            navigation: {
-                nextEl: '.swiper-button-next',
-                prevEl: '.swiper-button-prev',
-            },
+	// spaceBetween: 20,
+	slidesPerGroup: 1,
+	centeredSlides: false,
+	loop: true,
+	autoplay: {
+		delay: 4000,
+	},
+	pagination: {
+		el: '.swiper-pagination',
+	},
+	navigation: {
+		nextEl: '.swiper-button-next',
+		prevEl: '.swiper-button-prev',
+	},
 }
 
 
@@ -67,13 +67,13 @@ export default function Home3() {
 									<img className="position-absolute top-100 start-50 translate-middle pt-8 z-0" src="assets/imgs/home-page-3/hero/signature.png" alt="ataulmohsin" />
 								</div>
 								<div className="d-flex flex-column gap-2 mt-9 position-relative z-1">
-									<Link href="tel:+12345678901">
+									<Link href="tel:+923146012991">
 										<i className="ri-phone-fill text-primary-3 fs-7" />
 										<span className="text-300 fs-6 ms-2">+92-314-601-2991</span>
 									</Link>
-									<Link href="mailto:meisa.rosie@gmail.com">
+									<Link href="mailto:ataulmohsin900@gmail.com">
 										<i className="ri-mail-fill text-primary-3 fs-7" />
-										<span className="text-300 fs-6 ms-2">meisa.rosie@gmail.com</span>
+										<span className="text-300 fs-6 ms-2">ataulmohsin900@gmail.com</span>
 									</Link>
 									<Link href="#">
 										<i className="ri-skype-fill text-primary-3 fs-7" />
@@ -483,19 +483,19 @@ export default function Home3() {
 									<h3>Contact me</h3>
 									<div className="d-flex align-items-center gap-5 mt-4">
 										<div className="d-flex flex-column gap-2 position-relative z-1">
-											<Link href="tel:+12345678901">
+											<Link href="tel:+923146012991">
 												<i className="ri-phone-fill text-primary-3 h6 fw-medium" />
 												<span className="text-300 fs-6 ms-2">+92-314-601-2991</span>
 											</Link>
-											<Link href="mailto:meisa.rosie@gmail.com">
+											<Link href="mailto:ataulmohsin900@gmail.com">
 												<i className="ri-mail-fill text-primary-3 h6 fw-medium" />
-												<span className="text-300 fs-6 ms-2">meisa.rosie@gmail.com</span>
+												<span className="text-300 fs-6 ms-2">ataulmohsin900@gmail.com</span>
 											</Link>
 										</div>
 										<div className="d-flex flex-column gap-2 position-relative z-1">
 											<Link href="#">
 												<i className="ri-skype-fill text-primary-3 h6 fw-medium" />
-												<span className="text-300 fs-6 ms-https://www.google.com/maps/place/1st+Ave.,+New+York,+NY,+Hoa+K%E1%BB%B3/@40.7630169,-73.9594939,17z/data=!4m6!3m5!1s0x89c258c29e084453:0x2bf768350d30b89e!8m2!3d40.7630169!4d-73.9594939!16zL20vMDV3Z2tm?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D">meisa.rosie</span>
+												<span className="text-300 fs-6 ms-https://www.google.com/maps/place/1st+Ave.,+New+York,+NY,+Hoa+K%E1%BB%B3/@40.7630169,-73.9594939,17z/data=!4m6!3m5!1s0x89c258c29e084453:0x2bf768350d30b89e!8m2!3d40.7630169!4d-73.9594939!16zL20vMDV3Z2tm?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D">ataulmohsin</span>
 											</Link>
 											<Link href="#">
 												<i className="ri-map-2-fill text-primary-3 h6 fw-medium" />

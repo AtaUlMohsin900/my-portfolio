@@ -74,7 +74,7 @@ export default function BlogDetails() {
 											<div className="border-linear-3 rounded-4 p-lg-6 p-md-4 p-3 mt-4">
 												<span className="text-uppercase fs-7">Share</span> <br />
 												<div className="d-flex gap-3 pt-3">
-													<Link href="/#" className="text-decoration-none">
+													<Link href="https://www.facebook.com/profile.php?id=61558336619926" className="text-decoration-none">
 														<i className="ri-facebook-circle-fill fs-18" />
 													</Link>
 													<Link href="/#" className="text-decoration-none">

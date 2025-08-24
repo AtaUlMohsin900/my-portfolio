@@ -20,7 +20,7 @@ export default function Home1() {
 								<span>Hire me</span>
 								<i className="ri-arrow-right-line ms-2" />
 							</Link>
-							<p className="text-400 mt-6 mb-3">+ 12 years with professional design software</p>
+							<p className="text-400 mt-6 mb-3">+ 4 years with professional design software</p>
 							<div className="d-flex gap-3">
 								<div className="brand-logo icon-xl icon-shape rounded-3 bg-900">
 									<img src="/assets/imgs/hero/hero-1/brand-1.png" alt="brand" />

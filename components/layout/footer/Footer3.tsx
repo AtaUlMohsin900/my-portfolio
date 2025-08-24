@@ -20,16 +20,16 @@ export default function Footer3() {
 								<a href="#contact" className="fs-6"> Contact </a>
 							</div>
 							<div className="navbar-social d-flex justify-content-center gap-3">
-								<a href="http://facebook.com">
+								<a href="https://www.facebook.com/profile.php?id=61558336619926">
 									<i className="ri-facebook-circle-fill fs-18" />
 								</a>
 								<a href="http://twitter.com">
 									<i className="ri-twitter-x-fill fs-18" />
 								</a>
-								<a href="http://linkedin.com">
+								<a href="https://www.linkedin.com/in/ataul-mohsin-767159215/">
 									<i className="ri-linkedin-fill fs-18" />
 								</a>
-								<a href="http://github.com">
+								<a href="https://github.com/AtaUlMohsin900">
 									<i className="ri-github-fill fs-18" />
 								</a>
 							</div>

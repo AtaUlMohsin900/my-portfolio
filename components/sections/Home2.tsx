@@ -54,6 +54,11 @@ export default function Home2() {
 														</li>
 														<li className="carouselTicker__item">
 															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
+																<img src="assets/imgs/home-page-2/hero-1/icon-10.svg" alt="brand" />
+															</Link>
+														</li>
+														<li className="carouselTicker__item">
+															<Link href="#" className="brand-logo icon_60 icon-shape rounded-3">
 																<img src="assets/imgs/home-page-2/hero-1/icon-4.svg" alt="brand" />
 															</Link>
 														</li>

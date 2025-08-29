@@ -41,8 +41,8 @@ export default function Experience2() {
 												<div className="d-flex align-items-center gap-2">
 													<img src="assets/imgs/home-page-2/experience/twitter.svg" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">Twitter (X)</h5>
-														<span className="text-300">2012 - 2015</span>
+														<h5 className="mb-1">Realitai</h5>
+														<span className="text-300">2024 - 2025</span>
 													</div>
 												</div>
 											</Link>
@@ -50,8 +50,8 @@ export default function Experience2() {
 												<div className="d-flex align-items-center gap-2">
 													<img src="assets/imgs/home-page-2/experience/amazon.svg" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">Amazon</h5>
-														<span className="text-300">2018 - Present</span>
+														<h5 className="mb-1">GigaSquad</h5>
+														<span className="text-300">2022 - 2024</span>
 													</div>
 												</div>
 											</Link>
@@ -59,15 +59,15 @@ export default function Experience2() {
 												<div className="d-flex align-items-center gap-2">
 													<img src="assets/imgs/home-page-2/experience/payPal.svg" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">PayPal</h5>
-														<span className="text-300">2010 - 2012</span>
+														<h5 className="mb-1">BuilCs Associate</h5>
+														<span className="text-300">2014 - Present</span>
 													</div>
 												</div>
 											</Link>
 										</div>
 									</div>
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
-										<h6 className="text-linear-4">Senior Software Engineer</h6>
+										<h6 className="text-linear-4">Software Developer</h6>
 										<ul className="mt-4">
 											<li className="text-dark mb-3">Led development of scalable web applications, <span className="text-secondary-2">improving performance</span> and user experience for millions of users.</li>
 											<li className="text-dark mb-3">Implemented machine learning algorithms to enhance search functionality.</li>

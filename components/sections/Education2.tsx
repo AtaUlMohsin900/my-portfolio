@@ -20,10 +20,10 @@ export default function Education2() {
 										<ul className="ps-3">
 											<li className="position-relative z-1 mb-3">
 												<div className="d-flex gap-2">
-													<p className="text-300 text-nowrap fw-regular mb-0">2020-2024:</p>
+													<p className="text-300 text-nowrap fw-regular mb-0">2024-2025:</p>
 													<div>
 														<span className="text-primary-2">IBM</span>
-														<p className="text-dark">Certification in React and Redux, Node.js Developer Course</p>
+														<p className="text-dark">Specialization Certificate in IBM Full Stack Software Developer</p>
 													</div>
 												</div>
 											</li>

@@ -30,7 +30,7 @@ export default function Experience2() {
 										<div className="d-flex flex-column gap-2">
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/ztbl.png" alt="ataulmohsin" />
+													<img src="/assets/imgs/home-page-2/experience/ztbl.png" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">ZTBL</h5>
 														<span className="text-300">2022 - Present</span>
@@ -39,7 +39,7 @@ export default function Experience2() {
 											</Link>
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/realitai.svg" alt="ataulmohsin" />
+													<img src="/assets/imgs/home-page-2/experience/Realitai.png" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">Realitai</h5>
 														<span className="text-300">2024 - 2025</span>
@@ -48,7 +48,7 @@ export default function Experience2() {
 											</Link>
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/amazon.svg" alt="ataulmohsin" />
+													<img src="/assets/imgs/home-page-2/experience/amazon.svg" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">GigaSquad</h5>
 														<span className="text-300">2022 - 2024</span>
@@ -57,7 +57,7 @@ export default function Experience2() {
 											</Link>
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/payPal.svg" alt="ataulmohsin" />
+													<img src="/assets/imgs/home-page-2/experience/paypal.svg" alt="ataulmohsin" />
 													<div className="d-flex flex-column ms-2">
 														<h5 className="mb-1">BuildCo Associate</h5>
 														<span className="text-300">2014 - Present</span>

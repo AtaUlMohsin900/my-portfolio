@@ -19,7 +19,7 @@ export default function Coporation2() {
 											<span className="text-linear-4 d-flex align-items-center"> Cooperation </span>
 										</div>
 										<h3 className="fw-medium">
-											More than +168 <span className="text-300">companies <br /></span> trusted <span className="text-300">worldwide_</span>
+											More than +4 <span className="text-300">companies <br /></span> trusted <span className="text-300">worldwide_</span>
 										</h3>
 										<div className="my-5 border border-1 rounded-2 p-3">
 											{/* Carausel Scroll */}
